@@ -1,4 +1,5 @@
 # 2023_Aws_cloud를_활용한_INHA_SW_NET_ZERO_공동해커톤_팀_연수실
+### *해당 레포지토리는 해커톤 기간의 cloud9 코드를 복원해놓음.*
 ## 주제 : 에어 코리아의 실시간 대기정보 데이터를 활용한 서비스 개발
 <h2>서비스명 : 먼지여정 슬랙봇<img src="https://github.com/meridaKim/meonji_Yeojung/assets/71478325/d518d70b-44a0-429b-ab27-ea503e0e87a2" width="5%"/>
 </h2>
